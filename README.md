@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**saulpalv/saulpalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```kotlin
+val saulpalv = developer {
+    about {
+        name = "Saul Alonso Palazuelos"
+        company = self
+        highest_degree : M.S. (computer science)
+        twitter = "@saulpalv"
+    }
+    
+    tech("firebase")
+    tech("mongoDB")
+    tech("typescript", "react")
+    tech("Kotlin/JVM", "jetpack compose desktop")
+    tech("C#", "WPF")
+ 
+}
+```
+### Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[javali notebook](https://github.com/saulpalv/javali-notebook) : Interactive java notebook system for acedemy in México
