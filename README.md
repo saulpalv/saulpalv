@@ -10,13 +10,13 @@ val saulpalv = developer {
     }
     
     tech("firebase")
-    tech("mongoDB")
+    tech("mongoDB atlas")
     tech("typescript", "react")
     tech("Kotlin/JVM", "jetpack compose desktop")
-    tech("C#", "WPF")
- 
+    tech("C#", "WPF", "Entity framework")
+    tech("Java", "Spring", "JavaFX")
 }
 ```
 ### Projects
 
-[javali notebook](https://github.com/saulpalv/javali-notebook) : Interactive java notebook system for acedemy in México
+[javali notebook](https://github.com/saulpalv/javali-notebook) : Interactive java notebook system for academy in México
