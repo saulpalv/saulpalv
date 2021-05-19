@@ -13,8 +13,8 @@ val saulpalv = developer {
     tech("mongoDB atlas")
     tech("typescript", "react")
     tech("Kotlin/JVM", "jetpack compose desktop")
-    tech("C#", "WPF", "Entity framework")
-    tech("Java", "Spring", "JavaFX")
+    tech("c#", "blazor", "xamarin", "entity framework", "wpf")
+    tech("java", "spring", "javaFX")
 }
 ```
 ### Projects
