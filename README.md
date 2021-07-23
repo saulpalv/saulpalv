@@ -3,12 +3,14 @@
 ```js
 {
     about : {
-        name : 'Saul Alonso Palazuelos'
+        name : 'Saul Alonso Palazuelos',
         highest_degree : 'M.S. (computer science)'
     },
-    front : [ 'react', 'jetpack compose', 'Swing', 'XAML', 'JavaFX']
-    db : ['firebase', { mongodb : ['atlas', 'realm']}, SQL ]
-    lang : ['typescript', 'kotlin', 'java', 'C#']
+    stack : {
+        front : [ 'react', 'jetpack compose', 'Swing', 'XAML', 'JavaFX'],
+        db : ['firebase', { mongodb : ['atlas', 'realm']}, SQL ],
+        lang : ['typescript', 'kotlin', 'java', 'C#']
+    }
 }
 ```
 ### Projects
