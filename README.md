@@ -8,7 +8,7 @@
     },
     stack : {
         front : [ 'react', 'jetpack compose', 'Swing', 'XAML', 'JavaFX'],
-        db : ['firebase', { mongodb : ['atlas', 'realm']}, SQL ],
+        db : ['firebase', { mongodb : ['atlas', 'realm']}, 'MSSQL' ],
         lang : ['typescript', 'kotlin', 'java', 'C#']
     }
 }
