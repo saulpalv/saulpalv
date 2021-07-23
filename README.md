@@ -5,7 +5,6 @@
     about : {
         name : 'Saul Alonso Palazuelos'
         highest_degree : 'M.S. (computer science)'
-        twitter : '@saulpalv'
     },
     front : [ 'react', 'jetpack compose', 'Swing', 'XAML', 'JavaFX']
     db : ['firebase', { mongodb : ['atlas', 'realm']}, SQL ]
