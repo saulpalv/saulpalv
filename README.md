@@ -14,4 +14,4 @@
 ```
 ### Projects
 
-[javali notebook](https://github.com/saulpalv/javali-notebook) : Interactive java notebook system for academy in México
+[javali notebook](https://github.com/saulpalv/javali-notebook) : Interactive java notebook system for academy (ITC culiacán)
