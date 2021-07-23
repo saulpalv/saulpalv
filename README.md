@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```json
+```js
 {
     about : {
         name : 'Saul Alonso Palazuelos'
