@@ -1,20 +1,15 @@
 ### Hi there 👋
 
-```kotlin
-val saulpalv = developer {
-    about {
-        name = "Saul Alonso Palazuelos"
-        company = self
-        highest_degree : M.S. (computer science)
-        twitter = "@saulpalv"
-    }
-    
-    tech("firebase")
-    tech("mongoDB atlas")
-    tech("typescript", "react")
-    tech("kotlin jvm", "jetpack compose desktop")
-    tech("c#", "blazor", "xamarin", "entity framework", "wpf")
-    tech("java", "spring", "javaFX")
+```json
+{
+    about : {
+        name : 'Saul Alonso Palazuelos'
+        highest_degree : 'M.S. (computer science)'
+        twitter : '@saulpalv'
+    },
+    front : [ 'react', 'jetpack compose', 'Swing', 'XAML', 'JavaFX']
+    db : ['firebase, { mongodb : ['atlas', 'realm']}, SQL ]
+    lang : ['typescript', 'kotlin', 'java', 'C#']
 }
 ```
 ### Projects
