@@ -2,14 +2,11 @@
 
 ```js
 {
-    about : {
-        name : 'Saul Alonso Palazuelos',
-        highest_degree : 'M.S. (computer science)'
-    },
+    name : 'M.S Saul Alonso Palazuelos',
     stack : {
-        front : [ 'react', 'jetpack compose', 'Swing', 'XAML', 'JavaFX'],
-        db : ['firebase', { mongodb : ['atlas', 'realm']}, 'MSSQL' ],
-        lang : ['typescript', 'kotlin', 'java', 'C#']
+        front : [ 'react', 'jetpack compose', 'Swing', 'JavaFX'],
+        db : ['Mongo', 'Firebase'],
+        lang : ['scala','typescript', 'kotlin', 'java', 'C#']
     }
 }
 ```
