@@ -2,8 +2,8 @@
 
 ```js
 {
-    name : 'M.S Saul Alonso Palazuelos',
-    role : 'Frontend dev'
+    name : 'M.C.S Saul Alonso Palazuelos',
+    role : 'Frontend dev',
     prefs : ['react', 'scala.js', 'rescript', 'typescript', 'mongodb', 'graphql', 'firebase']
 }
 ```
