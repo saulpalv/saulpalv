@@ -3,13 +3,10 @@
 ```js
 {
     name : 'M.S Saul Alonso Palazuelos',
-    stack : {
-        front : [ 'react', 'jetpack compose', 'Swing', 'JavaFX'],
-        db : ['Mongo', 'Firebase'],
-        lang : ['scala','typescript', 'kotlin', 'java', 'C#']
-    }
+    role : 'Frontend dev'
+    prefferences : ['react', 'scala.js', 'rescript', 'typescript', 'mongodb', 'graphql', 'firebase']
 }
 ```
 ### Projects
 
-[javali notebook](https://github.com/saulpalv/javali-notebook) : Interactive java notebook system for academy (ITC culiacán)
+[javali notebook](https://www.youtube.com/watch?v=SmprxYB86mg) : Interactive java notebook system for the academy (ITC culiacán)
