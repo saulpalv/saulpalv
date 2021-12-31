@@ -4,7 +4,7 @@
 {
     name : 'M.S Saul Alonso Palazuelos',
     role : 'Frontend dev'
-    prefferences : ['react', 'scala.js', 'rescript', 'typescript', 'mongodb', 'graphql', 'firebase']
+    prefs : ['react', 'scala.js', 'rescript', 'typescript', 'mongodb', 'graphql', 'firebase']
 }
 ```
 ### Projects
