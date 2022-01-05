@@ -2,9 +2,9 @@
 
 ```js
 {
-    name : 'M.C.S Saul Alonso Palazuelos',
-    role : 'Frontend dev',
-    prefs : ['react', 'scala.js', 'rescript', 'typescript', 'mongodb', 'graphql', 'firebase']
+    name : 'Saul Palazuelos',
+    role : 'Frontend, UX',
+    prefs : ['scala.js', 'rescript', 'typescript']
 }
 ```
 ### Projects
