@@ -2,8 +2,8 @@
 
 ```js
 {
-    name : 'Saul Palazuelos',
-    role : 'Frontend, UX',
+    name : 'Saul',
+    role : 'UX, Design, Simulation',
     prefs : ['scala.js', 'rescript', 'typescript']
 }
 ```
