@@ -2,11 +2,11 @@
 
 ```js
 {
-    name : 'Saul',
-    role : 'UX, Design, Simulation',
-    prefs : ['scala.js', 'rescript', 'typescript']
+    name : 'Sal Pal',
+    role : 'UX, Design, Graphics, Animations',
+    prefs : ['rescript', 'typescript', 'elm', 'scala.js',]
 }
 ```
 ### Projects
 
-[javali notebook](https://www.youtube.com/watch?v=SmprxYB86mg) : Interactive java notebook system for the academy (ITC culiacán)
+MCS Thesis: [javali notebook](https://www.youtube.com/watch?v=SmprxYB86mg) : Interactive java notebook system for the academy (ITC culiacán)
