@@ -1,6 +1,6 @@
-### Hi there 👋
+### Trying to put down some clean lines... ready yet?
 
-```js
+```ts
 {
     name : 'Sal Pal',
     role : 'UX, Design, Graphics, Animations',
