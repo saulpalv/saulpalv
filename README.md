@@ -3,7 +3,7 @@
 ```ts
 {
     name : 'Sal Pal',
-    role : 'UX, Design, Graphics, Animations',
+    hobbies : [Graphics, Audio, Media, Animations, 2D-like Games],
     prefs : ['rescript', 'f#', 'typescript', 'elm']
 }
 ```
