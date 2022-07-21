@@ -3,8 +3,9 @@
 ```ts
 {
     name : 'Sal Pal',
-    hobbies : [Graphics, Audio, Media, Animations, 2D-like Games],
-    prefs : ['rescript', 'f#', 'typescript', 'elm']
+    hobbies : [Graphics, Audio, Media, Animations, '2D-like Games'],
+    prefs : [rescript, 'f#', typescript, elm]
+    techs: [thingsForDrawing, sdl, skia, cairo, 'html-canvas']
 }
 ```
 ### Projects
