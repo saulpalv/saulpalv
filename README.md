@@ -4,7 +4,7 @@
 {
     name : 'Sal Pal',
     role : 'UX, Design, Graphics, Animations',
-    prefs : ['rescript', 'typescript', 'elm', 'scala.js',]
+    prefs : ['rescript', 'f#', 'typescript', 'elm']
 }
 ```
 ### Projects
