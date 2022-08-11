@@ -1,4 +1,4 @@
-### Trying to put down some clean lines... ready yet?
+### Trying to write down some clean lines... yet?
 
 ```ts
 {
