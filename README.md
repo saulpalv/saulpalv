@@ -5,7 +5,7 @@
     name : 'Sal Pal',
     hobbies : [Graphics, Audio, Media, Animations, '2D-like Games'],
     langs : ['f#', typescript, elm, rescript],
-    techs: [thingsForDrawing, sdl, skia, cairo, 'html-canvas']
+    techs: [sdl, skia, 'html5-canvas']
 }
 ```
 ### Projects
