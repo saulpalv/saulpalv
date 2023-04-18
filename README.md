@@ -1,11 +1,10 @@
-### Trying to write down some clean lines... yet?
+### Ever written some clean lines?
 
 ```ts
 {
     name : 'Sal Pal',
-    hobbies : [Graphics, Audio, Media, Animations, '2D-like Games'],
-    langs : ['f#', typescript, elm, rescript],
-    techs: [sdl, skia, 'html5-canvas']
+    hobbies : [Graphics, Audio, Media, Animations],
+    langs : ['f#', 'ocaml', typescript, elm, rescript],
 }
 ```
 ### Projects
